@@ -244,7 +244,7 @@ configLogicalBackup:
   # logical_backup_google_application_credentials: ""
 
   # prefix for the backup job name
-  logical_backup_job_prefix: "logical-backup-"
+  # logical_backup_job_prefix: "logical-backup-"
   # storage provider - either "s3" or "gcs"
   logical_backup_provider: "s3"
   # S3 Access Key ID
